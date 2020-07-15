@@ -10,11 +10,11 @@
 * Small bi-weekly project
 * Used MATLAB to find the running stiffness (ABBD) matrix of the laminate, stress and strains and margin of satefty for individual plys.
 
-3) Senior Design: Computational and Experimental Investigation of the Aerodynamics of a Forward-Swept Wing Compared to the Same Wing with  Aft Sweep and No Sweep Final Report
+4) Senior Design: Computational and Experimental Investigation of the Aerodynamics of a Forward-Swept Wing Compared to the Same Wing with  Aft Sweep and No Sweep Final Report
 * Contribution: Section 3.1, First Order Aero Analysis, pg. 25 to 33.
 * Section 5.2 - 6.1, Static Load Testing, pg. 57 to 59.  
 
-4) AIAA Competition Project: Hermes Aeronautics Envoy 600 Final Design Report
+5) AIAA Competition Project: Hermes Aeronautics Envoy 600 Final Design Report
 * Contribution: Section 5, Aerodynamics, pg. 32 to 40.
 
 
